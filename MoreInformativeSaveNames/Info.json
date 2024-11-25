@@ -3,10 +3,11 @@
   "DisplayName": "More Informative Save Names",
   "Author": "AlterAsc",
   "Version": "1.0.0",
+  "GameVersion": "2.5.0",
+  "HomePage": "https://github.com/alterasc/MoreInformativeSaveNames",
   "ManagerVersion": "0.27.11",
   "Requirements": [],
   "AssemblyName": "MoreInformativeSaveNames.dll",
   "EntryMethod": "MoreInformativeSaveNames.Main.Load",
-  "HomePage": "",
-  "Repository": ""
+  "Repository": "https://raw.githubusercontent.com/alterasc/MoreInformativeSaveNames/main/Repository.json"
 }
